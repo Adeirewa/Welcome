@@ -11,8 +11,6 @@ I'm a  **Data & Business Analytics** professional passionate about turning data 
 ## My Work
 Check out some of my projects:  
 - [Netflix Data Analysis](https://github.com/Adeirewa/Netflix-Data-Exploration-Analysis)  
-- [Superstore Sales Insights](link)  
-- [Customer Segmentation](link)  
 
 ## Let's Connect
 - [LinkedIn](www.linkedin.com/in/adesoladosumu)  
