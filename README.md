@@ -2,7 +2,7 @@
 
 I'm a  **Data & Business Analytics** professional passionate about turning data into actionable insights. I help businesses make **smarter decisions** using SQL, Python, Power BI, and DBT.  
 
-  🎯**Focus Areas: Data Analysis | BI Dashboards | SQL | Python | Predictive Analytics|DBT** 
+  🎯**Focus Areas: Data Analysis | BI Dashboards | SQL | Python | Predictive Analytics | DBT** 
 
  🚀**Currently exploring: Python for advanced data projects and building scalable analytics solutions using DBT** 
 
